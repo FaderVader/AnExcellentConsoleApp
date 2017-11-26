@@ -12,6 +12,8 @@ namespace AnExcellentConsoleApp
         {
             Console.WriteLine("Here comes the changes!");
 
+            Console.WriteLine("We need another line added here - this is first change from laptop");
+
             Console.ReadKey();
         }
     }
