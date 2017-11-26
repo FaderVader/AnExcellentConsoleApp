@@ -11,6 +11,8 @@ namespace AnExcellentConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Here comes the changes!");
+
+            Console.ReadKey();
         }
     }
 }
