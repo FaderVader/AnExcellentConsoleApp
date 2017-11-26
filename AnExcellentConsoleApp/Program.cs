@@ -14,7 +14,15 @@ namespace AnExcellentConsoleApp
 
             Console.WriteLine("We need another line added here - this is first change from laptop");
 
+            FeatureFluff();
+
             Console.ReadKey();
+        }
+
+
+        public static void FeatureFluff()
+        {
+            Console.WriteLine("This is a killer app");
         }
     }
 }
